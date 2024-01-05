@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# npm-debug.log
+npm-debug.log
+
+# Yarn
+yarn-error.log
+.yarn/
+
+# Editor files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Environment
+.env
